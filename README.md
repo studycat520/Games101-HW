@@ -37,5 +37,11 @@ More Lerp(normal, color, texture...), Texture Shading, Blinn-Phong Lighting, Bum
 
 <img width="300" height="300" alt="output_displacement" src="https://github.com/user-attachments/assets/98750c06-a732-4dd8-9715-392c3f2aced9" />
 
+## HW4
+BezierCurve(De Casteljau)
+
+<img width="323" height="297" alt="image" src="https://github.com/user-attachments/assets/82369092-8cc7-4929-903d-3ffcf4ee3e4a" />
+
+
 
 
