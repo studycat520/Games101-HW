@@ -47,6 +47,13 @@ Ray Tracing(Ray Generation + Möller-Trumbore Ray-Triangle Intersect)
 
 <img width="380" height="260" alt="image" src="https://github.com/user-attachments/assets/bd2f72f6-2d32-4682-86dc-898a81d32215" />
 
+## HW6
+RayIntersectP-AABB Bound, BVH
+
+<img width="200" height="175" alt="image" src="https://github.com/user-attachments/assets/0f3d280b-4e0f-413e-bc2f-e627ef59cb24" />
+
+
+
 
 
 
