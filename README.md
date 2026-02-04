@@ -42,6 +42,15 @@ BezierCurve(De Casteljau)
 
 <img width="323" height="297" alt="image" src="https://github.com/user-attachments/assets/82369092-8cc7-4929-903d-3ffcf4ee3e4a" />
 
+## HW5
+Ray Tracing(Ray Generation + Möller-Trumbore Ray-Triangle Intersect)
+
+<img width="380" height="260" alt="image" src="https://github.com/user-attachments/assets/bd2f72f6-2d32-4682-86dc-898a81d32215" />
+
+
+
+
+
 
 
 
