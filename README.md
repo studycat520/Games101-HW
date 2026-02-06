@@ -52,6 +52,24 @@ RayIntersectP-AABB Bound, BVH
 
 <img width="200" height="175" alt="image" src="https://github.com/user-attachments/assets/0f3d280b-4e0f-413e-bc2f-e627ef59cb24" />
 
+## HW7
+Path Tracing
+```
+ - Generating BVH...
+
+BVH Generation complete: 
+Time Taken: 0 hrs, 0 mins, 0 secs
+
+SPP: 16
+Render complete: ======================================================] 100 %
+Time taken: 0 hours
+          : 10 minutes
+          : 647 seconds
+
+```
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f7eef436-f7be-4ec3-a929-e9b0ecbe2a77" />
+
+
 
 
 
